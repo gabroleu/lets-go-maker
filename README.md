@@ -1,1 +1,2 @@
-este site...
+
+Este projeto é um portfólio digital e plataforma de agenciamento, desenvolvido para exibir os trabalhos de nossos fotógrafos, gerenciar reservas e atrair novos clientes.🚀 FuncionalidadesGaleria Dinâmica: Visualização em alta resolução de ensaios e projetos.Área de Agendamento: Formulário integrado para orçamentos e contratação de serviços.Catálogo de Profissionais: Perfil dedicado aos fotógrafos e videomakers da agência.
